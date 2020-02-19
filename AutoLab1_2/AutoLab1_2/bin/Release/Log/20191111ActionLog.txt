@@ -1,0 +1,157 @@
+﻿2019/11/11 01:00:58   Seat3 Join。
+2019/11/11 01:01:03   System RESUME。
+2019/11/11 01:03:48   131-Finish
+2019/11/11 01:04:31   134-Finish
+2019/11/11 01:06:49   132-Finish
+2019/11/11 01:08:26   601-Finish
+2019/11/11 01:08:52   133-Finish
+2019/11/11 01:12:30   135-Finish
+2019/11/11 01:12:31   Seat3 Finish。
+2019/11/11 01:17:09   602-Finish
+2019/11/11 01:30:58   System PAUSE。
+2019/11/11 01:31:06   Refresh Seat3。
+2019/11/11 01:40:10   Seat2 Join。
+2019/11/11 01:40:13   System RESUME。
+2019/11/11 01:42:49   113-Finish
+2019/11/11 01:42:50   Seat2 Finish。
+2019/11/11 03:00:31   System PAUSE。
+2019/11/11 03:01:08   Refresh Seat2。
+2019/11/11 03:01:36   System RESUME。
+2019/11/11 03:02:00   System PAUSE。
+2019/11/11 03:02:07   Seat3 Join。
+2019/11/11 03:02:11   System RESUME。
+2019/11/11 03:05:22   131-Finish
+2019/11/11 03:06:04   132-Finish
+2019/11/11 03:07:21   133-Finish
+2019/11/11 03:09:09   134-Finish
+2019/11/11 03:10:46   603-Finish
+2019/11/11 03:11:12   135-Finish
+2019/11/11 03:11:13   Seat3 Finish。
+2019/11/11 03:31:46   System PAUSE。
+2019/11/11 03:31:54   Refresh Seat3。
+2019/11/11 05:54:32   Seat3 Join。
+2019/11/11 05:55:17   System Close。
+2019/11/11 05:55:28   System Open。
+2019/11/11 05:55:39   Wash all platforms。
+2019/11/11 05:56:17   All platforms had been washed。
+2019/11/11 05:56:26   Buffer Refresh
+2019/11/11 05:56:29   System Start。
+2019/11/11 05:57:22   System PAUSE。
+2019/11/11 05:57:29   Seat3 Join。
+2019/11/11 05:57:37   System RESUME。
+2019/11/11 06:00:12   126-Finish
+2019/11/11 06:00:13   Seat3 Finish。
+2019/11/11 06:10:16   System PAUSE。
+2019/11/11 06:23:01   Refresh Seat3。
+2019/11/11 07:01:28   Seat3 Join。
+2019/11/11 07:01:33   System RESUME。
+2019/11/11 07:04:06   126-Finish
+2019/11/11 07:05:50   132-Finish
+2019/11/11 07:05:51   Seat3 Finish。
+2019/11/11 07:08:32   System PAUSE。
+2019/11/11 07:09:09   Refresh Seat3。
+2019/11/11 07:10:47   System Close。
+2019/11/11 07:10:52   System Open。
+2019/11/11 07:11:02   Wash all platforms。
+2019/11/11 07:11:35   All platforms had been washed。
+2019/11/11 07:11:36   Buffer Refresh
+2019/11/11 07:11:40   System Start。
+2019/11/11 07:12:46   System PAUSE。
+2019/11/11 10:48:03   Seat3 Join。
+2019/11/11 10:48:12   System RESUME。
+2019/11/11 10:51:12   125-Finish
+2019/11/11 10:52:34   127-Finish
+2019/11/11 10:54:20   128-Finish
+2019/11/11 10:56:00   126-Finish
+2019/11/11 10:56:25   132-Finish
+2019/11/11 11:00:38   131-Finish
+2019/11/11 11:00:39   Seat3 Finish。
+2019/11/11 11:20:12   System PAUSE。
+2019/11/11 11:20:18   Refresh Seat3。
+2019/11/11 11:20:45   Seat1 Join。
+2019/11/11 11:20:50   System RESUME。
+2019/11/11 11:23:23   106-Finish
+2019/11/11 11:23:24   Seat1 Finish。
+2019/11/11 11:25:01   System PAUSE。
+2019/11/11 13:42:58   System Open。
+2019/11/11 13:43:07   Wash all platforms。
+2019/11/11 13:44:51   All platforms had been washed。
+2019/11/11 13:45:08   System Stop。
+2019/11/11 13:45:09   Buffer Refresh
+2019/11/11 13:45:17   System Start。
+2019/11/11 13:45:32   System PAUSE。
+2019/11/11 13:45:58   Seat3 Join。
+2019/11/11 13:46:04   System RESUME。
+2019/11/11 13:48:50   125-Finish
+2019/11/11 13:49:24   126-Finish
+2019/11/11 13:49:25   Seat3 Finish。
+2019/11/11 13:53:28   601-Finish
+2019/11/11 13:56:09   System PAUSE。
+2019/11/11 13:56:15   Refresh Seat3。
+2019/11/11 13:57:17   Buffer Refresh
+2019/11/11 16:26:10   Seat3 Join。
+2019/11/11 16:26:16   System RESUME。
+2019/11/11 16:28:48   125-Finish
+2019/11/11 16:30:30   126-Finish
+2019/11/11 16:30:31   Seat3 Finish。
+2019/11/11 18:05:45   System PAUSE。
+2019/11/11 18:27:35   System Open。
+2019/11/11 18:27:56   Wash all platforms。
+2019/11/11 18:28:32   All platforms had been washed。
+2019/11/11 18:28:35   Buffer Refresh
+2019/11/11 18:28:47   System Start。
+2019/11/11 18:31:22   System PAUSE。
+2019/11/11 18:31:29   Seat3 Join。
+2019/11/11 18:31:36   System RESUME。
+2019/11/11 18:34:45   125-Finish
+2019/11/11 18:35:28   128-Finish
+2019/11/11 18:36:45   126-Finish
+2019/11/11 18:36:46   Seat3 Finish。
+2019/11/11 18:40:20   601-Finish
+2019/11/11 18:53:40   System PAUSE。
+2019/11/11 18:53:47   Refresh Seat3。
+2019/11/11 18:54:48   Buffer Refresh
+2019/11/11 20:50:41   Seat1 Join。
+2019/11/11 20:50:47   System RESUME。
+2019/11/11 20:53:25   106-Finish
+2019/11/11 20:53:26   Seat1 Finish。
+2019/11/11 21:04:32   System PAUSE。
+2019/11/11 21:07:05   System Open。
+2019/11/11 21:07:21   Wash all platforms。
+2019/11/11 21:08:56   All platforms had been washed。
+2019/11/11 21:08:58   Buffer Refresh
+2019/11/11 21:09:05   System Start。
+2019/11/11 21:10:03   System PAUSE。
+2019/11/11 21:10:09   Seat2 Join。
+2019/11/11 21:10:19   System RESUME。
+2019/11/11 21:13:10   113-Finish
+2019/11/11 21:13:56   117-Finish
+2019/11/11 21:16:08   115-Finish
+2019/11/11 21:16:21   System PAUSE。
+2019/11/11 21:16:56   Seat3 Join。
+2019/11/11 21:16:59   System RESUME。
+2019/11/11 21:18:14   118-Finish
+2019/11/11 21:18:38   116-Finish
+2019/11/11 21:20:28   130-Finish
+2019/11/11 21:22:17   128-Finish
+2019/11/11 21:23:01   119-Finish
+2019/11/11 21:23:02   Seat2 Finish。
+2019/11/11 21:27:40   129-Finish
+2019/11/11 21:27:41   Seat3 Finish。
+2019/11/11 21:32:18   601-Finish
+2019/11/11 21:42:23   System PAUSE。
+2019/11/11 21:44:28   System Open。
+2019/11/11 21:44:46   Wash all platforms。
+2019/11/11 21:45:20   All platforms had been washed。
+2019/11/11 21:45:57   Buffer Refresh
+2019/11/11 21:46:04   System Start。
+2019/11/11 21:47:48   System PAUSE。
+2019/11/11 21:48:09   Seat1 Join。
+2019/11/11 21:48:14   Seat1 Finish。
+2019/11/11 21:48:17   System RESUME。
+2019/11/11 22:18:10   System PAUSE。
+2019/11/11 22:18:25   Refresh Seat1。
+2019/11/11 22:18:31   Seat3 Join。
+2019/11/11 22:18:38   System RESUME。
+2019/11/11 22:21:14   125-Finish
+2019/11/11 22:21:15   Seat3 Finish。

@@ -1,0 +1,114 @@
+﻿json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000944",
+  "preprocessDate": "2019-11-01 08:17:35",
+  "analysisEndDate": "2019-11-01 08:17:54",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-01 08:07:12",
+      "dataF": [
+        {
+          "Samplename": "20000120961",
+          "pH": "5.440422"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-005316",
+  "preprocessDate": "2019-11-01 08:16:24",
+  "analysisEndDate": "2019-11-01 08:19:38",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-01 08:06:38",
+      "dataF": [
+        {
+          "Samplename": "20000120961",
+          "pH": "5.384029"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000945",
+  "preprocessDate": "2019-11-01 08:26:46",
+  "analysisEndDate": "2019-11-01 08:28:17",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-01 08:06:16",
+      "dataF": [
+        {
+          "Samplename": "20000120961",
+          "pH": "5.261844"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000963",
+  "preprocessDate": "2019-11-01 08:29:25",
+  "analysisEndDate": "2019-11-01 08:29:44",
+  "items": [
+    {
+      "sn": "27",
+      "setDate": "2019-11-01 08:06:57",
+      "dataF": [
+        {
+          "Samplename": "20000120862",
+          "S.G": "1.0177"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000949",
+  "preprocessDate": "2019-11-01 14:27:29",
+  "analysisEndDate": "2019-11-01 14:29:28",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-01 08:06:28",
+      "dataF": [
+        {
+          "Samplename": "20000120961",
+          "pH": "5.634039"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000950",
+  "preprocessDate": "2019-11-01 14:28:39",
+  "analysisEndDate": "2019-11-01 14:28:58",
+  "items": [
+    {
+      "sn": "27",
+      "setDate": "2019-11-01 08:05:49",
+      "dataF": [
+        {
+          "Samplename": "20000121262",
+          "S.G": "0.9952"
+        }
+      ]
+    }
+  ]
+}
+syncOK

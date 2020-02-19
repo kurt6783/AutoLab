@@ -1,0 +1,285 @@
+﻿json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001892",
+  "preprocessDate": "2019-11-12 16:29:24",
+  "analysisEndDate": "2019-11-12 16:30:48",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 16:22:25",
+      "dataF": [
+        {
+          "Samplename": "20702024761",
+          "pH": "11.12814"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-005331",
+  "preprocessDate": "2019-11-12 16:30:13",
+  "analysisEndDate": "2019-11-12 16:32:30",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 16:21:42",
+      "dataF": [
+        {
+          "Samplename": "20702024361",
+          "pH": "7.501122"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001530",
+  "preprocessDate": "2019-11-12 18:46:30",
+  "analysisEndDate": "2019-11-12 18:48:01",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 18:33:48",
+      "dataF": [
+        {
+          "Samplename": "25405010361",
+          "pH": "12.01633"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001569",
+  "preprocessDate": "2019-11-12 19:13:20",
+  "analysisEndDate": "2019-11-12 19:14:44",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 19:05:48",
+      "dataF": [
+        {
+          "Samplename": "25203011161",
+          "pH": "0.6028293"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001543",
+  "preprocessDate": "2019-11-12 19:14:12",
+  "analysisEndDate": "2019-11-12 19:16:27",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 19:05:13",
+      "dataF": [
+        {
+          "Samplename": "25203014061",
+          "pH": "10.55293"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001629",
+  "preprocessDate": "2019-11-12 20:43:34",
+  "analysisEndDate": "2019-11-12 20:45:03",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 20:33:30",
+      "dataF": [
+        {
+          "Samplename": "20702044761",
+          "pH": "11.54827"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001525",
+  "preprocessDate": "2019-11-12 21:08:01",
+  "analysisEndDate": "2019-11-12 21:09:48",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 20:50:35",
+      "dataF": [
+        {
+          "Samplename": "25301010361",
+          "pH": "3.063921"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000888",
+  "preprocessDate": "2019-11-12 21:08:57",
+  "analysisEndDate": "2019-11-12 21:09:16",
+  "items": [
+    {
+      "sn": "27",
+      "setDate": "2019-11-12 20:50:35",
+      "dataF": [
+        {
+          "Samplename": "25301010362",
+          "S.G": "1.1336"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001521",
+  "preprocessDate": "2019-11-12 21:10:26",
+  "analysisEndDate": "2019-11-12 21:12:09",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 20:58:01",
+      "dataF": [
+        {
+          "Samplename": "25304020161",
+          "pH": "11.64837"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001620",
+  "preprocessDate": "2019-11-12 21:12:29",
+  "analysisEndDate": "2019-11-12 21:13:59",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 20:46:05",
+      "dataF": [
+        {
+          "Samplename": "25301020361",
+          "pH": "3.030085"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000899",
+  "preprocessDate": "2019-11-12 21:10:07",
+  "analysisEndDate": "2019-11-12 21:14:32",
+  "items": [
+    {
+      "sn": "27",
+      "setDate": "2019-11-12 20:46:05",
+      "dataF": [
+        {
+          "Samplename": "25301020362",
+          "S.G": "1.1354"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000889",
+  "preprocessDate": "2019-11-12 21:11:11",
+  "analysisEndDate": "2019-11-12 21:19:08",
+  "items": [
+    {
+      "sn": "27",
+      "setDate": "2019-11-12 20:56:18",
+      "dataF": [
+        {
+          "Samplename": "25304020562",
+          "S.G": "1.3098"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-000120",
+  "preprocessDate": "2019-11-12 23:17:13",
+  "analysisEndDate": "2019-11-12 23:19:18",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 23:10:40",
+      "dataF": [
+        {
+          "Samplename": "20702024761",
+          "pH": "10.935"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-001626",
+  "preprocessDate": "2019-11-12 23:18:28",
+  "analysisEndDate": "2019-11-12 23:18:47",
+  "items": [
+    {
+      "sn": "27",
+      "setDate": "2019-11-12 23:08:31",
+      "dataF": [
+        {
+          "Samplename": "20702023562",
+          "S.G": "1.0676"
+        }
+      ]
+    }
+  ]
+}
+syncOK
+json={
+  "mac": "C4:00:AD:07:44:7C",
+  "bottleId": "17-005331",
+  "preprocessDate": "2019-11-12 23:18:06",
+  "analysisEndDate": "2019-11-12 23:21:18",
+  "items": [
+    {
+      "sn": "21",
+      "setDate": "2019-11-12 23:10:02",
+      "dataF": [
+        {
+          "Samplename": "20702024361",
+          "pH": "7.165113"
+        }
+      ]
+    }
+  ]
+}
+syncOK

@@ -1,0 +1,31 @@
+﻿2019/10/28 14:44:01   System Open。
+2019/10/28 14:44:04   Wash all platforms。
+2019/10/28 14:44:36   All platforms had been washed。
+2019/10/28 14:44:37   Buffer Refresh
+2019/10/28 14:44:37   System Start。
+2019/10/28 14:45:07   System PAUSE。
+2019/10/28 14:49:13   System Open。
+2019/10/28 14:49:15   Wash all platforms。
+2019/10/28 14:49:46   All platforms had been washed。
+2019/10/28 14:49:47   Buffer Refresh
+2019/10/28 14:49:48   System Start。
+2019/10/28 14:49:53   System PAUSE。
+2019/10/28 14:50:00   System Close。
+2019/10/28 16:38:24   System Open。
+2019/10/28 16:38:30   System Close。
+2019/10/28 16:38:35   System Open。
+2019/10/28 16:38:37   Wash all platforms。
+2019/10/28 16:39:08   All platforms had been washed。
+2019/10/28 16:39:09   Buffer Refresh
+2019/10/28 16:39:09   System Start。
+2019/10/28 16:39:16   System PAUSE。
+2019/10/28 16:39:22   System Close。
+2019/10/28 16:39:50   System Open。
+2019/10/28 16:39:52   Wash all platforms。
+2019/10/28 16:40:27   All platforms had been washed。
+2019/10/28 16:40:29   Buffer Refresh
+2019/10/28 16:40:29   System Start。
+2019/10/28 16:40:38   System PAUSE。
+2019/10/28 16:40:44   System Close。
+2019/10/28 16:40:49   System Open。
+2019/10/28 16:40:59   System Close。

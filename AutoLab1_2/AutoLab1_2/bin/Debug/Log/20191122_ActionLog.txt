@@ -1,0 +1,13 @@
+﻿2019/11/22 11:34:51   System Open。
+2019/11/22 11:34:59   Wash all platforms。
+2019/11/22 11:35:32   All platforms had been washed。
+2019/11/22 11:35:40   Buffer Refresh
+2019/11/22 11:36:15   System Stop。
+2019/11/22 11:36:33   System Close。
+2019/11/22 13:42:20   System Open。
+2019/11/22 14:33:56   System Open。
+2019/11/22 14:35:02   System Open。
+2019/11/22 14:35:08   Wash all platforms。
+2019/11/22 14:35:39   All platforms had been washed。
+2019/11/22 14:36:00   System Stop。
+2019/11/22 14:37:48   System Close。

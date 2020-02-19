@@ -1,0 +1,44 @@
+﻿2019/10/28 09:06:49   System Open。
+2019/10/28 10:08:05   System Open。
+2019/10/28 10:08:10   Wash all platforms。
+2019/10/28 10:08:42   All platforms had been washed。
+2019/10/28 10:09:10   Buffer Refresh
+2019/10/28 10:09:16   System Start。
+2019/10/28 10:09:36   System PAUSE。
+2019/10/28 10:10:06   Seat1 Join。
+2019/10/28 10:10:13   System RESUME。
+2019/10/28 10:10:20   System PAUSE。
+2019/10/28 12:27:51   System Open。
+2019/10/28 12:27:53   Wash all platforms。
+2019/10/28 12:28:24   All platforms had been washed。
+2019/10/28 12:28:26   System Stop。
+2019/10/28 12:28:26   Buffer Refresh
+2019/10/28 12:28:27   System Start。
+2019/10/28 12:28:36   System PAUSE。
+2019/10/28 12:28:43   System RESUME。
+2019/10/28 12:28:44   System PAUSE。
+2019/10/28 12:29:02   System RESUME。
+2019/10/28 12:29:11   System PAUSE。
+2019/10/28 12:29:32   System Open。
+2019/10/28 13:15:26   Wash all platforms。
+2019/10/28 13:15:58   All platforms had been washed。
+2019/10/28 13:16:01   System Close。
+2019/10/28 14:41:20   System Open。
+2019/10/28 14:41:25   Wash all platforms。
+2019/10/28 14:42:46   All platforms had been washed。
+2019/10/28 14:43:32   Buffer Refresh
+2019/10/28 14:43:33   System Start。
+2019/10/28 14:43:35   System Close。
+2019/10/28 14:46:41   System Open。
+2019/10/28 14:46:43   Wash all platforms。
+2019/10/28 14:47:14   All platforms had been washed。
+2019/10/28 14:47:15   System Stop。
+2019/10/28 14:47:16   Buffer Refresh
+2019/10/28 14:47:16   System Start。
+2019/10/28 14:47:25   System PAUSE。
+2019/10/28 14:47:57   System Open。
+2019/10/28 14:47:59   Wash all platforms。
+2019/10/28 14:48:30   All platforms had been washed。
+2019/10/28 14:48:32   Buffer Refresh
+2019/10/28 14:48:33   System Start。
+2019/10/28 14:48:41   System PAUSE。

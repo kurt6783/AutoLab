@@ -1,0 +1,34 @@
+﻿2019/10/18 11:01:10   System Open。
+2019/10/18 11:01:38   System Close。
+2019/10/18 11:02:57   System Open。
+2019/10/18 11:03:34   System Close。
+2019/10/18 11:06:32   System Open。
+2019/10/18 11:10:32   System Open。
+2019/10/18 11:11:22   System Stop。
+2019/10/18 11:11:22   Buffer Refresh
+2019/10/18 11:11:25   System Start。
+2019/10/18 11:11:59   System PAUSE。
+2019/10/18 11:12:11   Seat3 Join。
+2019/10/18 11:12:27   System RESUME。
+2019/10/18 11:16:01   125-Finish
+2019/10/18 11:16:25   127-Finish
+2019/10/18 11:17:59   126-Finish
+2019/10/18 11:19:46   132-Finish
+2019/10/18 11:21:26   131-Finish
+2019/10/18 11:25:59   133-Finish
+2019/10/18 11:26:00   Seat3 Finish。
+2019/10/18 11:29:07   System PAUSE。
+2019/10/18 11:29:12   Refresh Seat3。
+2019/10/18 13:48:27   System Open。
+2019/10/18 13:49:15   Buffer Refresh
+2019/10/18 13:49:22   System Start。
+2019/10/18 13:51:43   System PAUSE。
+2019/10/18 13:51:46   Seat3 Join。
+2019/10/18 13:52:26   System RESUME。
+2019/10/18 13:55:14   125-Finish
+2019/10/18 13:55:59   132-Finish
+2019/10/18 13:56:00   Seat3 Finish。
+2019/10/18 13:57:38   System PAUSE。
+2019/10/18 13:57:45   Refresh Seat3。
+2019/10/18 13:58:02   System RESUME。
+2019/10/18 14:02:47   System PAUSE。

@@ -1,0 +1,68 @@
+﻿2019/10/29 09:22:32   System Open。
+2019/10/29 09:22:35   Wash all platforms。
+2019/10/29 09:23:06   All platforms had been washed。
+2019/10/29 09:23:08   Buffer Refresh
+2019/10/29 09:23:10   System Start。
+2019/10/29 09:23:22   System PAUSE。
+2019/10/29 09:23:32   System Close。
+2019/10/29 09:24:04   System Open。
+2019/10/29 09:24:06   Wash all platforms。
+2019/10/29 09:24:49   Buffer Refresh
+2019/10/29 09:24:49   System Start。
+2019/10/29 09:25:07   All platforms had been washed。
+2019/10/29 09:25:09   System Close。
+2019/10/29 09:26:53   System Open。
+2019/10/29 09:26:55   Wash all platforms。
+2019/10/29 09:27:26   All platforms had been washed。
+2019/10/29 09:27:27   Buffer Refresh
+2019/10/29 09:27:27   System Start。
+2019/10/29 09:27:38   System Close。
+2019/10/29 09:29:06   System Open。
+2019/10/29 09:29:08   Wash all platforms。
+2019/10/29 09:29:39   All platforms had been washed。
+2019/10/29 09:29:40   Buffer Refresh
+2019/10/29 09:29:41   System Start。
+2019/10/29 09:29:50   System Close。
+2019/10/29 09:29:50   System Close。
+2019/10/29 09:34:07   System Open。
+2019/10/29 09:34:09   Wash all platforms。
+2019/10/29 09:34:40   All platforms had been washed。
+2019/10/29 09:34:40   Buffer Refresh
+2019/10/29 09:34:41   System Start。
+2019/10/29 09:34:50   System Close。
+2019/10/29 09:34:50   System Close。
+2019/10/29 09:35:54   System Open。
+2019/10/29 09:35:56   Wash all platforms。
+2019/10/29 09:36:27   Buffer Refresh
+2019/10/29 09:36:28   System Start。
+2019/10/29 09:36:42   System Close。
+2019/10/29 09:43:33   System Open。
+2019/10/29 09:43:39   System Close。
+2019/10/29 09:43:46   System Open。
+2019/10/29 09:43:47   Wash all platforms。
+2019/10/29 09:44:18   All platforms had been washed。
+2019/10/29 09:44:19   Buffer Refresh
+2019/10/29 09:44:20   System Start。
+2019/10/29 09:44:24   System Close。
+2019/10/29 09:44:30   System Open。
+2019/10/29 09:44:32   Wash all platforms。
+2019/10/29 09:45:03   All platforms had been washed。
+2019/10/29 09:45:04   Buffer Refresh
+2019/10/29 09:45:05   System Start。
+2019/10/29 09:45:18   System PAUSE。
+2019/10/29 10:08:36   System Open。
+2019/10/29 10:08:38   Wash all platforms。
+2019/10/29 10:09:11   All platforms had been washed。
+2019/10/29 10:09:13   Buffer Refresh
+2019/10/29 10:09:13   System Start。
+2019/10/29 10:09:23   System PAUSE。
+2019/10/29 10:09:29   System Close。
+2019/10/29 10:16:42   System Open。
+2019/10/29 10:16:49   System Close。
+2019/10/29 10:16:51   System Open。
+2019/10/29 10:16:53   Wash all platforms。
+2019/10/29 10:17:24   All platforms had been washed。
+2019/10/29 10:17:26   System Stop。
+2019/10/29 10:17:27   Buffer Refresh
+2019/10/29 10:17:27   System Start。
+2019/10/29 10:17:35   System Close。

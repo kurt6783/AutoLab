@@ -1,0 +1,30 @@
+﻿2019/10/23 14:59:09   System Open。
+2019/10/23 14:59:13   System Close。
+2019/10/23 14:59:23   System Open。
+2019/10/23 15:02:52   System Close。
+2019/10/23 15:03:28   System Open。
+2019/10/23 15:04:01   Buffer Refresh
+2019/10/23 15:07:07   System Start。
+2019/10/23 15:07:59   System PAUSE。
+2019/10/23 15:08:20   Seat3 Join。
+2019/10/23 15:08:46   System RESUME。
+2019/10/23 15:09:07   125-No Data in Server
+2019/10/23 15:09:24   126-No Data in Server
+2019/10/23 15:09:25   Seat3 Finish。
+2019/10/23 15:11:36   System PAUSE。
+2019/10/23 15:12:05   Refresh Seat3。
+2019/10/23 15:12:10   Seat1 Join。
+2019/10/23 15:12:16   System RESUME。
+2019/10/23 15:14:50   105-Finish
+2019/10/23 15:19:22   106-Finish
+2019/10/23 15:19:23   Seat1 Finish。
+2019/10/23 15:21:21   System PAUSE。
+2019/10/23 15:21:47   Seat2 Join。
+2019/10/23 15:21:55   Refresh Seat1。
+2019/10/23 15:23:35   System RESUME。
+2019/10/23 15:24:30   118-No Data in Server
+2019/10/23 15:24:31   Seat2 Finish。
+2019/10/23 15:26:42   System PAUSE。
+2019/10/23 15:26:43   Refresh Seat2。
+2019/10/23 15:26:45   System RESUME。
+2019/10/23 15:30:05   System PAUSE。

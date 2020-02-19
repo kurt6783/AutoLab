@@ -1,0 +1,783 @@
+CXProgVer:="1.6";
+DockManager:=
+BEGIN
+ Bar[0]:=
+ BEGIN
+  BarID:=59422;
+  Bars:=6;
+  Bar[0]:=0;
+  Bar[1]:=59414;
+  Bar[2]:=59415;
+  Bar[3]:=59416;
+  Bar[4]:=59412;
+  Bar[5]:=0;
+  Style:=0;
+  ExStyle:=0;
+  PrevFloating:=0;
+  MDIChild:=0;
+  PctWidth:="0";
+  MRUFloat:="0 0";
+  MRUHorzDock:="0 0";
+  MRUVertDock:="0 0";
+  MRUDockingState:=0;
+  DockingStyle:=0;
+  TypeID:=0;
+  ClassName:="";
+  WindowName:="";
+  ResourceID:=0;
+ END;
+ Bar[1]:=
+ BEGIN
+  BarID:=59420;
+  Bars:=3;
+  Bar[0]:=0;
+  Bar[1]:=59413;
+  Bar[2]:=0;
+  Style:=0;
+  ExStyle:=0;
+  PrevFloating:=0;
+  MDIChild:=0;
+  PctWidth:="0";
+  MRUFloat:="0 0";
+  MRUHorzDock:="0 0";
+  MRUVertDock:="0 0";
+  MRUDockingState:=0;
+  DockingStyle:=0;
+  TypeID:=0;
+  ClassName:="";
+  WindowName:="";
+  ResourceID:=0;
+ END;
+ Bar[2]:=
+ BEGIN
+  BarID:=59414;
+  Visible:=0;
+  Pos:="1 5";
+  Docking:=1;
+  MRUDockID:=0;
+  MRUDockPos:="1 5 825 209";
+  MRUFloatStyle:=4;
+  MRUFloatPos:="-2147483648 0";
+  Style:=36756;
+  ExStyle:=3889;
+  PrevFloating:=0;
+  MDIChild:=0;
+  PctWidth:="500000";
+  MRUFloat:="300 180";
+  MRUHorzDock:="824 0";
+  MRUVertDock:="300 180";
+  MRUDockingState:=0;
+  DockingStyle:=61440;
+  TypeID:=0;
+  ClassName:="COutputWindow";
+  WindowName:="块";
+  ResourceID:=0;
+ END;
+ Bar[3]:=
+ BEGIN
+  BarID:=59412;
+  Pos:="1 5";
+  Docking:=1;
+  MRUDockID:=59422;
+  MRUDockPos:="1 5 0 398";
+  MRUFloatStyle:=4;
+  MRUFloatPos:="-2147483648 0";
+  Style:=36756;
+  ExStyle:=3889;
+  PrevFloating:=0;
+  MDIChild:=0;
+  PctWidth:="1000000";
+  MRUFloat:="300 180";
+  MRUHorzDock:="-1 0";
+  MRUVertDock:="300 180";
+  MRUDockingState:=0;
+  DockingStyle:=61440;
+  TypeID:=0;
+  ClassName:="CWatchWindowContainer";
+  WindowName:="浪跌跌怠";
+  ResourceID:=0;
+ END;
+ Bar[4]:=
+ BEGIN
+  BarID:=59416;
+  Visible:=0;
+  Pos:="1 5";
+  Docking:=1;
+  MRUDockID:=0;
+  MRUDockPos:="1 5 710 185";
+  MRUFloatStyle:=4;
+  MRUFloatPos:="-2147483648 0";
+  Style:=36756;
+  ExStyle:=3889;
+  PrevFloating:=0;
+  MDIChild:=0;
+  PctWidth:="500000";
+  MRUFloat:="300 180";
+  MRUHorzDock:="709 0";
+  MRUVertDock:="300 180";
+  MRUDockingState:=0;
+  DockingStyle:=61440;
+  TypeID:=0;
+  ClassName:="CPIVWindowContainer";
+  WindowName:="よ遏龟ㄒ浪跌";
+  ResourceID:=0;
+ END;
+ Bar[5]:=
+ BEGIN
+  BarID:=59413;
+  Pos:="0 -2";
+  Docking:=1;
+  MRUDockID:=59420;
+  MRUDockPos:="0 -2 227 0";
+  MRUFloatStyle:=4;
+  MRUFloatPos:="-2147483648 0";
+  Style:=8084;
+  ExStyle:=3889;
+  PrevFloating:=0;
+  MDIChild:=0;
+  PctWidth:="1000000";
+  MRUFloat:="300 180";
+  MRUHorzDock:="300 0";
+  MRUVertDock:="227 2";
+  MRUDockingState:=0;
+  DockingStyle:=61440;
+  TypeID:=0;
+  ClassName:="CWorkspace";
+  WindowName:="盡Task跋";
+  ResourceID:=0;
+ END;
+ Bar[6]:=
+ BEGIN
+  BarID:=59415;
+  Visible:=0;
+  Pos:="0 0";
+  Docking:=1;
+  MRUDockID:=0;
+  MRUDockPos:="0 0 0 0";
+  MRUFloatStyle:=4;
+  MRUFloatPos:="-2147483648 0";
+  Style:=36756;
+  ExStyle:=3889;
+  PrevFloating:=0;
+  MDIChild:=0;
+  PctWidth:="1000000";
+  MRUFloat:="300 180";
+  MRUHorzDock:="300 0";
+  MRUVertDock:="300 180";
+  MRUDockingState:=0;
+  DockingStyle:=61440;
+  TypeID:=0;
+  ClassName:="CCrossReferenceWindow";
+  WindowName:="把σㄣ]";
+  ResourceID:=0;
+ END;
+ Bars:=7;
+ Screen:="1920 1080";
+END;
+ProjectTree:=
+BEGIN
+ Item[0]:=0;
+ Item[1]:=2;
+ Item[2]:=13;
+ Item[3]:=14;
+ ItemCount:=4;
+ Sumcheck:=48;
+ Selected:=22;
+END;
+Frame[0]:=
+BEGIN
+ Norm:="0100 0100 1278 0414";
+ Min:="-001 -001";
+ Path:="C:\Users\MyUser\Desktop\1__2\AutoLab_.cxp";
+ Access:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+ Type:=3;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Mag:=1;
+   Extra:=
+   BEGIN
+    Type:="CSymbolTableListCtrlState";
+    Style:=1;
+    NumCols:=7;
+    Width[0]:=150;
+    Width[1]:=90;
+    Width[2]:=100;
+    Width[3]:=84;
+    Width[4]:=84;
+    Width[5]:=48;
+    Width[6]:=200;
+    SortCol:=2;
+   END;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[1]:=
+BEGIN
+ Norm:="0000 0000 1017 0499";
+ Min:="-001 -001";
+ Access:="PROGRAM:穝盡.戈方.穝戈方1.祘Α家Α.穝糤祘Α1.琿辅.Platform1_SG!Platform1_SG";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[2]:=
+BEGIN
+ Norm:="0025 0025 0734 0444";
+ Min:="-001 -001";
+ Access:="PROGRAM:穝盡.戈方.穝戈方1.祘Α家Α.穝糤祘Α1.琿辅.Platform2_PH!Platform2_PH";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=24;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[3]:=
+BEGIN
+ Norm:="0075 0075 1281 0531";
+ Min:="-001 -001";
+ Access:="PROGRAM:穝盡.戈方.穝戈方1.祘Α家Α.穝糤祘Α1.琿辅.Platform3_UV!Platform3_UV";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=405;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[4]:=
+BEGIN
+ Norm:="0125 0125 1228 0604";
+ Min:="-001 -001";
+ Access:="PROGRAM:穝盡.戈方.穝戈方1.祘Α家Α.穝糤祘Α1.琿辅.Seat!Seat";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=20;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[5]:=
+BEGIN
+ Max:=true;
+ Norm:="0050 0050 1256 0506";
+ Min:="-001 -001";
+ Access:="PROGRAM:穝盡.戈方.穝戈方1.祘Α家Α.穝糤祘Α1.琿辅.干!干";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+  END;
+  nViews:=1;
+ END;
+END;
+nFrames:=6;
+WatchWindow:=
+BEGIN
+ NumWatch:=3;
+ Column[0]:=0;
+ Column[1]:=0;
+ Column[3]:=0;
+ Watches[0]:=
+ BEGIN
+  SheetName:="sheet1";
+  ColumnWidth[0]:=60;
+  ColumnWidth[1]:=86;
+  ColumnWidth[2]:=83;
+  ColumnWidth[3]:=210;
+  ColumnWidth[4]:=171;
+  ColumnWidth[5]:=368;
+  NumWatches:=56;
+  Watch[0]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="D0";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=200;
+  END;
+  Watch[1]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="D1";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=200;
+  END;
+  Watch[2]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="D2";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=200;
+  END;
+  Watch[3]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="D3";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=200;
+  END;
+  Watch[4]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="D100";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=200;
+  END;
+  Watch[5]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="D200";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=200;
+  END;
+  Watch[6]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="D300";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=200;
+  END;
+  Watch[7]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.00";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[8]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.01";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[9]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.02";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[10]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.03";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[11]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.04";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[12]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.05";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[13]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.06";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[14]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.07";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[15]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.08";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[16]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.09";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[17]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.10";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[18]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.11";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[19]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.12";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[20]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.13";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[21]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.14";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[22]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="3.15";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[23]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.00";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[24]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.01";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[25]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.02";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[26]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.03";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[27]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.04";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[28]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.05";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[29]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.06";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[30]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.07";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[31]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.08";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[32]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.09";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[33]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.10";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[34]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.11";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[35]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.12";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[36]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.13";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[37]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.14";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[38]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="4.15";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[39]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.00";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[40]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.01";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[41]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.02";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[42]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.03";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[43]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.04";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[44]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.05";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[45]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.06";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[46]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.07";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[47]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.08";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[48]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.09";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[49]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.10";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[50]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.11";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[51]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.12";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[52]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.13";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[53]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.14";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[54]:=
+  BEGIN
+   PLC:="穝PLC1";
+   Reference:="5.15";
+   TypeKnown:=true;
+   Path:="PROJECT:!穝盡.戈方.穝戈方1.跑计";
+   Type:=0;
+  END;
+  Watch[55]:=
+  BEGIN
+  END;
+ END;
+ Watches[1]:=
+ BEGIN
+  SheetName:="sheet2";
+  ColumnWidth[0]:=60;
+  ColumnWidth[1]:=86;
+  ColumnWidth[2]:=83;
+  ColumnWidth[3]:=210;
+  ColumnWidth[4]:=60;
+  ColumnWidth[5]:=60;
+  NumWatches:=1;
+  Watch[0]:=
+  BEGIN
+  END;
+ END;
+ Watches[2]:=
+ BEGIN
+  SheetName:="sheet3";
+  ColumnWidth[0]:=60;
+  ColumnWidth[1]:=86;
+  ColumnWidth[2]:=83;
+  ColumnWidth[3]:=210;
+  ColumnWidth[4]:=60;
+  ColumnWidth[5]:=60;
+  NumWatches:=1;
+  Watch[0]:=
+  BEGIN
+  END;
+ END;
+END;
+PrintPageSettings:=
+BEGIN
+END;

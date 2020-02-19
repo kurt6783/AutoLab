@@ -1,0 +1,144 @@
+﻿2019/11/08 00:36:41   System PAUSE。
+2019/11/08 00:37:57   Refresh Seat1。
+2019/11/08 02:02:56   Seat2 Join。
+2019/11/08 02:03:01   System RESUME。
+2019/11/08 02:05:36   113-Finish
+2019/11/08 02:05:37   Seat2 Finish。
+2019/11/08 03:04:45   System PAUSE。
+2019/11/08 03:05:47   System Open。
+2019/11/08 03:06:01   Wash all platforms。
+2019/11/08 03:07:31   All platforms had been washed。
+2019/11/08 03:07:42   Buffer Refresh
+2019/11/08 03:07:45   System Start。
+2019/11/08 03:57:59   System PAUSE。
+2019/11/08 03:58:18   Seat3 Join。
+2019/11/08 03:58:37   Seat3 Join。
+2019/11/08 03:58:43   System RESUME。
+2019/11/08 04:01:26   133-Finish
+2019/11/08 04:03:09   131-Finish
+2019/11/08 04:04:52   132-Finish
+2019/11/08 04:04:53   Seat3 Finish。
+2019/11/08 04:18:12   System PAUSE。
+2019/11/08 05:42:07   Seat2 Join。
+2019/11/08 05:42:10   System RESUME。
+2019/11/08 05:42:33   117-No Data in Server
+2019/11/08 05:45:10   118-Finish
+2019/11/08 05:45:11   Seat2 Finish。
+2019/11/08 05:55:09   System PAUSE。
+2019/11/08 05:55:27   Refresh Seat3。
+2019/11/08 05:55:28   Refresh Seat2。
+2019/11/08 05:55:34   Seat1 Join。
+2019/11/08 05:55:38   System RESUME。
+2019/11/08 05:58:10   104-Finish
+2019/11/08 05:58:11   Seat1 Finish。
+2019/11/08 06:00:15   System PAUSE。
+2019/11/08 06:00:29   Refresh Seat1。
+2019/11/08 07:02:10   Seat1 Join。
+2019/11/08 07:02:14   System RESUME。
+2019/11/08 07:04:48   104-Finish
+2019/11/08 07:04:49   Seat1 Finish。
+2019/11/08 07:05:56   System PAUSE。
+2019/11/08 07:06:08   Seat3 Join。
+2019/11/08 07:06:10   Refresh Seat1。
+2019/11/08 07:06:13   System RESUME。
+2019/11/08 07:08:51   131-Finish
+2019/11/08 07:08:52   Seat3 Finish。
+2019/11/08 07:10:57   System PAUSE。
+2019/11/08 07:14:43   Refresh Seat3。
+2019/11/08 08:24:14   Seat3 Join。
+2019/11/08 08:24:17   System RESUME。
+2019/11/08 08:26:49   129-Finish
+2019/11/08 08:28:33   130-Finish
+2019/11/08 08:28:34   Seat3 Finish。
+2019/11/08 08:46:03   System PAUSE。
+2019/11/08 11:05:32   Refresh Seat3。
+2019/11/08 11:05:41   Buffer Refresh
+2019/11/08 11:05:45   System RESUME。
+2019/11/08 11:05:56   System PAUSE。
+2019/11/08 11:06:01   Buffer Refresh
+2019/11/08 11:06:07   Seat3 Join。
+2019/11/08 11:06:12   System RESUME。
+2019/11/08 11:09:20   126-Finish
+2019/11/08 11:09:44   127-Finish
+2019/11/08 11:11:08   130-Finish
+2019/11/08 11:12:56   128-Finish
+2019/11/08 11:14:36   129-Finish
+2019/11/08 11:14:37   Seat3 Finish。
+2019/11/08 11:24:36   System PAUSE。
+2019/11/08 11:31:36   Refresh Seat3。
+2019/11/08 11:32:58   Seat3 Join。
+2019/11/08 11:33:09   System RESUME。
+2019/11/08 11:36:43   126-Finish
+2019/11/08 11:37:08   130-Finish
+2019/11/08 11:38:27   129-Finish
+2019/11/08 11:40:16   136-Finish
+2019/11/08 11:41:52   601-Finish
+2019/11/08 11:45:51   132-Finish
+2019/11/08 11:45:52   Seat3 Finish。
+2019/11/08 11:50:29   602-Finish
+2019/11/08 11:52:51   System PAUSE。
+2019/11/08 11:53:03   Refresh Seat3。
+2019/11/08 11:56:17   Buffer Refresh
+2019/11/08 11:56:29   Seat1 Join。
+2019/11/08 11:56:33   System RESUME。
+2019/11/08 11:59:23   106-Finish
+2019/11/08 12:00:07   112-Finish
+2019/11/08 12:00:08   Seat1 Finish。
+2019/11/08 12:06:58   System PAUSE。
+2019/11/08 12:07:04   Refresh Seat1。
+2019/11/08 13:37:17   Seat3 Join。
+2019/11/08 13:37:22   System RESUME。
+2019/11/08 13:40:10   131-Finish
+2019/11/08 13:40:45   132-Finish
+2019/11/08 13:40:46   Seat3 Finish。
+2019/11/08 13:44:48   601-Finish
+2019/11/08 14:06:21   System PAUSE。
+2019/11/08 15:24:05   Refresh Seat3。
+2019/11/08 16:17:11   Seat1 Join。
+2019/11/08 16:17:14   Buffer Refresh
+2019/11/08 16:17:19   System RESUME。
+2019/11/08 16:19:56   104-Finish
+2019/11/08 16:21:36   102-Finish
+2019/11/08 16:23:17   103-Finish
+2019/11/08 16:24:59   105-Finish
+2019/11/08 16:25:00   Seat1 Finish。
+2019/11/08 16:33:31   System PAUSE。
+2019/11/08 16:33:38   Refresh Seat1。
+2019/11/08 19:20:12   Buffer Refresh
+2019/11/08 19:20:15   Seat3 Join。
+2019/11/08 19:20:19   System RESUME。
+2019/11/08 19:22:52   128-Finish
+2019/11/08 19:24:35   129-Finish
+2019/11/08 19:24:36   Seat3 Finish。
+2019/11/08 19:34:18   System PAUSE。
+2019/11/08 20:59:03   Seat2 Join。
+2019/11/08 20:59:05   System RESUME。
+2019/11/08 21:01:42   118-Finish
+2019/11/08 21:01:43   Seat2 Finish。
+2019/11/08 21:21:20   System PAUSE。
+2019/11/08 21:21:34   Refresh Seat2。
+2019/11/08 21:21:42   Seat2 Join。
+2019/11/08 21:22:17   Refresh Seat3。
+2019/11/08 21:22:59   Seat3 Join。
+2019/11/08 21:23:02   System RESUME。
+2019/11/08 21:23:20   118-No Data in Server
+2019/11/08 21:23:21   Seat2 Finish。
+2019/11/08 21:26:45   125-Finish
+2019/11/08 21:27:28   128-Finish
+2019/11/08 21:28:44   126-Finish
+2019/11/08 21:30:32   130-Finish
+2019/11/08 21:32:12   129-Finish
+2019/11/08 21:36:45   131-Finish
+2019/11/08 21:36:46   Seat3 Finish。
+2019/11/08 21:57:07   System PAUSE。
+2019/11/08 23:23:03   Refresh Seat3。
+2019/11/08 23:23:09   System RESUME。
+2019/11/08 23:23:22   System PAUSE。
+2019/11/08 23:23:32   Seat3 Join。
+2019/11/08 23:23:37   System RESUME。
+2019/11/08 23:26:44   125-Finish
+2019/11/08 23:27:29   131-Finish
+2019/11/08 23:28:46   126-Finish
+2019/11/08 23:28:47   Seat3 Finish。
+2019/11/08 23:32:21   601-Finish
+2019/11/08 23:51:15   System PAUSE。

@@ -1,0 +1,2 @@
+﻿並未將物件參考設定為物件的執行個體
+Seat Status Function

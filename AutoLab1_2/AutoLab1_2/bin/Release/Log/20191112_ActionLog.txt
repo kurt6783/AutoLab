@@ -1,0 +1,57 @@
+﻿2019/11/12 13:54:27   System Open。
+2019/11/12 13:54:34   System Close。
+2019/11/12 13:54:39   System Open。
+2019/11/12 13:55:01   Wash all platforms。
+2019/11/12 13:57:31   All platforms had been washed。
+2019/11/12 13:57:33   System Close。
+2019/11/12 13:57:41   System Open。
+2019/11/12 13:57:47   Wash all platforms。
+2019/11/12 13:58:21   All platforms had been washed。
+2019/11/12 13:58:34   Buffer Refresh
+2019/11/12 13:58:35   System Start。
+2019/11/12 14:00:28   System PAUSE。
+2019/11/12 16:28:57   Seat1 Join。
+2019/11/12 16:29:06   System RESUME。
+2019/11/12 16:31:36   105-Finish
+2019/11/12 16:33:18   106-Finish
+2019/11/12 16:33:19   Seat1 Finish。
+2019/11/12 16:35:27   System PAUSE。
+2019/11/12 16:35:46   Refresh Seat1。
+2019/11/12 18:46:10   Seat2 Join。
+2019/11/12 18:46:14   System RESUME。
+2019/11/12 18:48:50   118-Finish
+2019/11/12 18:48:51   Seat2 Finish。
+2019/11/12 18:50:14   System PAUSE。
+2019/11/12 18:50:20   Refresh Seat2。
+2019/11/12 19:12:50   Seat1 Join。
+2019/11/12 19:13:01   System RESUME。
+2019/11/12 19:15:32   106-Finish
+2019/11/12 19:17:15   112-Finish
+2019/11/12 19:17:16   Seat1 Finish。
+2019/11/12 19:20:15   System PAUSE。
+2019/11/12 19:20:47   Refresh Seat1。
+2019/11/12 20:43:08   Seat1 Join。
+2019/11/12 20:43:15   System RESUME。
+2019/11/12 20:45:52   104-Finish
+2019/11/12 20:45:53   Seat1 Finish。
+2019/11/12 20:59:56   System PAUSE。
+2019/11/12 21:06:36   Refresh Seat1。
+2019/11/12 21:07:34   Seat3 Join。
+2019/11/12 21:07:44   System RESUME。
+2019/11/12 21:10:56   128-Finish
+2019/11/12 21:11:41   129-Finish
+2019/11/12 21:13:04   134-Finish
+2019/11/12 21:14:52   136-Finish
+2019/11/12 21:16:32   130-Finish
+2019/11/12 21:21:07   135-Finish
+2019/11/12 21:21:08   Seat3 Finish。
+2019/11/12 21:48:04   System PAUSE。
+2019/11/12 22:48:51   Refresh Seat3。
+2019/11/12 23:16:55   Seat2 Join。
+2019/11/12 23:16:57   System RESUME。
+2019/11/12 23:20:05   116-Finish
+2019/11/12 23:20:50   118-Finish
+2019/11/12 23:22:05   117-Finish
+2019/11/12 23:22:06   Seat2 Finish。
+2019/11/12 23:25:40   601-Finish
+2019/11/12 23:30:26   System PAUSE。
